@@ -1,0 +1,28 @@
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Localisator.h"
+
+
+#endif
+
+#ifndef StockMarketAndLargeAircraft_StockMarketAndLargeAircraft_Prefix_pch
+#define StockMarketAndLargeAircraft_StockMarketAndLargeAircraft_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+
+//屏幕宽度
+#define Drive_Wdith ([UIScreen mainScreen].applicationFrame.size.width)
+//屏幕除去状态栏高度
+#define Drive_Height ([UIScreen mainScreen].applicationFrame.size.height)
+
+#define LOCALIZATION(text) [[Localisator sharedInstance] localizedStringForKey:(text)]
+
+// work execution time
+#define TICK   NSDate *startTime = [NSDate date]
+#define TOCK   NSLog(@"Time: %f", -[startTime timeIntervalSinceNow])

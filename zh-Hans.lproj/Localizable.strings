@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SpriteKit
+
+  Created by liwei wang on 8/7/15.
+  Copyright (c) 2015 CpSoft. All rights reserved.
+*/
+"text_play_again" = "重新开始";
+"text_continue" = "继续";
+"text_game_over" = "游戏结束";
+"text_you_carry_on" = "在股市大飞机中";
+"text_you_insist" = "您坚持的时间:";
+"text_come_on" = "加油啊 !";
+"text_put_the_money" = "并投入了钱数:";
+"text_big_plane" = "大飞机";
+"text_share" = "分享";
+"text_share_info_one" = "Hi ! 我在股市大飞机中坚持了";
+"text_share_info_two" = "秒. 快来和我一起玩吧 (https://itunes.apple.com/us/app/gu-shi-da-fei-ji/id1020576766?l=zh&ls=1&mt=8)";

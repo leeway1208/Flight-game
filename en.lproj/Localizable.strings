@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SpriteKit
+
+  Created by liwei wang on 8/7/15.
+  Copyright (c) 2015 CpSoft. All rights reserved.
+*/
+"text_play_again" = "Play Again";
+"text_continue" = "Continue";
+"text_game_over" = "Game Over";
+"text_you_carry_on" = "You insist on seconds:";
+"text_you_insist" = "";
+"text_come_on" = "Come On !";
+"text_put_the_money" = "And put the amount of money:";
+"text_big_plane" = "Big Plane";
+"text_share" = "Share";
+"text_share_info_one" = "Hi ! I insist on";
+"text_share_info_two" = "seconds in this game. Download it ! (https://itunes.apple.com/us/app/gu-shi-da-fei-ji/id1020576766?l=zh&ls=1&mt=8)";
